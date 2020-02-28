@@ -1,6 +1,6 @@
 # fgmac-f24
 * Script To Clone Gmaclinux Desktop On  Fedora 24 Workstation.
-* http://www.arfedora.com/2016/06/24-fgmac-24-gmaclinux.html
+* http://www.arfedora.blogspot.com/2016/06/24-fgmac-24-gmaclinux.html
 
 
 
